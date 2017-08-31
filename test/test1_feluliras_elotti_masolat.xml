@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<sensordata><machine name="localhost"><sensors><sensor id="FAN0" name="" /><sensor id="FAN1" name="" /><sensor id="FAN2" name="" /><sensor id="FAN3" name="" /></sensors></machine><machine name="127.0.0.1"><sensors><sensor id="FAN0" name="" /><sensor id="FAN1" name="" /><sensor id="FAN2" name="" /><sensor id="FAN3" name="" /></sensors></machine></sensordata>

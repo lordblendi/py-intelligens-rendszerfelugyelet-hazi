@@ -1,0 +1,4 @@
+machineName,port,protocol,user,password
+localhost,5985,https,meres,LaborImage
+server01,5986,https,meres,LaborImage
+127.0.0.1,5985,https,meres,LaborImage
